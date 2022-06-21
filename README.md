@@ -1,5 +1,6 @@
-# Hi my name is Bas (A.K.A Mightylight),
+# Hi 👋
 
+My name is Bas (A.K.A Mightylight),
 I'm an aspiring game developer and currently studying Creative Media and Game Technologies
 at Saxion University. I'm very interested in learning about AI/algorithms, but I'm open to all things programming!
 
