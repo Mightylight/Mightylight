@@ -1,6 +1,36 @@
-### Hi there 👋
+Hi my name is Bas (A.K.A Mightylight),
 
-<!--
+I'm an aspiring game developer and currently studying Creative Media and Game Technologies
+at Saxion University.
+
+I'm very interested in learning about AI/algorithms, but I'm open to all things programming!
+
+My skills:
+- Processing
+- C# 
+- HTML & CSS
+- Unity
+
+Soon you will be able to see what projects I've worked on
+In the meantime checkout my LinkedIn: https://www.linkedin.com/in/basmeddeler/![image](https://user-images.githubusercontent.com/59601297/174759281-bb8d77d2-9b37-49e8-a8bc-6cdb3c7c8a0c.png)
+
+
+
+
+<!--Hi my name is Bas (A.K.A Mightylight),
+
+I'm an aspiring game developer and currently studying Creative Media and Game Technologies
+at Saxion University.
+
+I'm very interested in learning about AI/algorithms, but I'm open to all things programming!
+
+My skills:
+- Processing
+- C# 
+- HTML & CSS
+
+Soon you will be able to see what projects I've worked on
+In the meantime checkout my LinkedIn: https://www.linkedin.com/in/basmeddeler/![Uploading image.png…]()
 **Mightylight/Mightylight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
