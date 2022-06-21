@@ -12,7 +12,7 @@ My skills:
 - Unity
 
 Soon you will be able to see what projects I've worked on
-In the meantime checkout my LinkedIn: https://www.linkedin.com/in/basmeddeler/![image](https://user-images.githubusercontent.com/59601297/174759281-bb8d77d2-9b37-49e8-a8bc-6cdb3c7c8a0c.png)
+In the meantime checkout my LinkedIn: https://www.linkedin.com/in/basmeddeler/
 
 
 
