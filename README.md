@@ -13,4 +13,4 @@ In the meantime checkout my LinkedIn:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/basmeddeler/)
 
 ## Projects
-Coming soon :construction:
+[![BrickBreaker](https://github-readme-stats.vercel.app/api/pin/?username=Mightylight&repo=BrickBreakerGame&theme=dark)](https://github.com/Mightylight/BrickbreakerGame)
