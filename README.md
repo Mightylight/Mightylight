@@ -15,3 +15,6 @@ Other social media you can reach me:
 ## Projects
 [![BrickBreaker](https://github-readme-stats.vercel.app/api/pin/?username=Mightylight&repo=BrickBreakerGame&theme=dark)](https://github.com/Mightylight/BrickbreakerGame)
 [![MightyEnchants](https://github-readme-stats.vercel.app/api/pin/?username=Mightylight&repo=MightyEnchants&theme=dark)](https://github.com/Mightylight/MightyEnchants)
+[![KitchenBrawl](https://github-readme-stats.vercel.app/api/pin/?username=Mightylight&repo=KitchenBrawl&theme=dark)](https://github.com/Mightylight/KitchenBrawl)
+[![MightyConveyors](https://github-readme-stats.vercel.app/api/pin/?username=Mightylight&repo=MightyConveyors&theme=dark)](https://github.com/Mightylight/MightyConveyors)
+
