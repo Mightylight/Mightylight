@@ -13,6 +13,7 @@ Other social media you can reach me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/basmeddeler/)
 
 ## Projects
+[![RankedByTheAudience](https://github-readme-stats.vercel.app/api/pin/?username=Patrycioss&repo=RankedByTheAudience&theme=dark)](https://github.com/patrycioss/RankedByTheAudience)
 [![Escape The Gator](https://github-readme-stats.vercel.app/api/pin/?username=Mightylight&repo=Project_ShowOff&theme=dark)](https://github.com/Mightylight/Project_ShowOff)
 [![Scarlet Escape](https://github-readme-stats.vercel.app/api/pin/?username=Mightylight&repo=Project-Innovation&theme=dark)](https://github.com/Mightylight/Project-Innovation)
 [![BrickBreaker](https://github-readme-stats.vercel.app/api/pin/?username=Mightylight&repo=BrickBreakerGame&theme=dark)](https://github.com/Mightylight/BrickbreakerGame)
